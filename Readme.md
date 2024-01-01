@@ -14,3 +14,5 @@ Jupyter notebook dosyası olarak geliştirilmiş olan bu çalışmanın bir uçt
 ![Knime](https://pbs.twimg.com/profile_images/940902877270290432/3_92FwKS_400x400.jpg)
 
 ![Sklearn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+
+<img src="https://github.com/mberkayakardev/Musteriye_Ozel_Fiyat_Tahmin_Knime_Project/blob/master/image.png?raw=true">
